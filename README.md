@@ -1,2 +1,0 @@
-# estudio
-trabajo de proyecto
